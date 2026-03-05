@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "サンダー",
+  "base_artist": "イマジン・ドラゴンズ",
+  "createdAt": "2026-03-05T15:22:41.253959Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ジャッジメント・ナイツ・オブ・サンダー",
+      "artist": "斉木ックラバー",
+      "has_synced": false,
+      "path": "select/01_ジャッジメント・ナイツ・オブ・サンダー_斉木ックラバー.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ジャッジメント.ナイツ.オブ.サンダー",
+      "artist": "Psychic Lover & Ohishi, Kenichiro",
+      "has_synced": false,
+      "path": "select/02_ジャッジメント.ナイツ.オブ.サンダー_Psychic_Lover_&_Ohishi,_Kenichiro.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ジャッジメント.ナイツ.オブ.サンダー (M-27)",
+      "artist": "斉木ックラバー",
+      "has_synced": false,
+      "path": "select/03_ジャッジメント.ナイツ.オブ.サンダー_(M-27)_斉木ックラバー.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ジャッジメント.ナイツ.オブ.サンダー (M-27)",
+      "artist": "YOFFY",
+      "has_synced": false,
+      "path": "select/04_ジャッジメント.ナイツ.オブ.サンダー_(M-27)_YOFFY.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Thunder",
+      "artist": "Imagine Dragons",
+      "has_synced": false,
+      "path": "select/pl_01_Thunder_Imagine_Dragons.txt"
+    }
+  ]
+}
